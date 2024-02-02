@@ -1,2 +1,4 @@
 *.bkp
 config
+printer-*.cfg
+KAMP
